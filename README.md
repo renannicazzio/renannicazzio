@@ -1,8 +1,8 @@
-## Olá! Eu sou o Renan! ;D
+## E aí! Eu sou o Renan! ;D
 
 - 🔭 Atualmente trabalhando com UX & UI Design
-- 🌱 Estudando Front-end
-- 💬 HTML5, CSS & JavaScript
+- 🌱 Estudando Front-end | HTML5, CSS & JavaScript
+- 💬 Email para contato: renannicaciodesign@gmail.com
 
 <div align="center">
   <a href="https://www.behance.net/nicazzio">
