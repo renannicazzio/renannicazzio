@@ -1,7 +1,7 @@
 ## E aí! Eu sou o Renan! ;D
 
 - 🔭 Atualmente trabalhando com UX & UI Design
-- 🌱 Estudando Data Science | SQL, Oracle, mySQL
+- 🌱 Estudando Data Science | SQL, Python e PBI.
 - 💬 Email para contato: renannicaciodesign@gmail.com
 
 <div align="center">
