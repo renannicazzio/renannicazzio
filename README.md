@@ -1,6 +1,6 @@
 ## E aí! Eu sou o Renan! ;D
 
-- 🔭 Analista de Dados
+- 🔭 Data Analyst
 - 🌱 Estudando Data Science | SQL, Python e PBI.
 - 💬 Email para contato: nicacioanalyst@gmail.com
 
